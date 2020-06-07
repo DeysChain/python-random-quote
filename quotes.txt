@@ -12,3 +12,8 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Less is best
+Colaborate with more people
+The testing process is very important
+Write code for others, not for you
+HolaComo estas
